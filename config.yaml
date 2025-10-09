@@ -11,6 +11,7 @@ teams:
     maintainers:
       - ryjones
     members:
+      - kmillikin
       - nicarq
       - SebastienGllmt
 repositories:
