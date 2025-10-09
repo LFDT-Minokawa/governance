@@ -1,0 +1,20 @@
+teams:
+  - name: lf-staff
+    maintainers:
+      - ryjones
+    members:
+      - christinaharter
+      - jwagantall
+      - minyu66
+      - thelinuxfoundation
+  - name: minokawa-admins
+    maintainers:
+      - ryjones
+    members:
+      - nicarq
+      - SebastienGllmt
+repositories:
+  - name: governance
+    teams:
+      lf-staff: maintain
+    visibility: public
