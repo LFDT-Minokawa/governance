@@ -11,10 +11,12 @@ teams:
     maintainers:
       - kmillikin
     members:
-      - leszek-shielded
-      - pataei
+      - bobblessinghartley
+      - chrisferry
       - dybvig
       - JosephDenman
+      - leszek-shielded
+      - pataei
 repositories:
   - name: governance
     teams:
