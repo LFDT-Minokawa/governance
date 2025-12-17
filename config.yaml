@@ -7,6 +7,14 @@ teams:
       - jwagantall
       - minyu66
       - thelinuxfoundation
+  - name: compact-admins
+    maintainers:
+      - chrisferry
+  - name: compact-maintainers
+    maintainers:
+      - kmillikin
+    members:
+      - chrisferry
   - name: minokawa-maintainers
     maintainers:
       - kmillikin
@@ -18,6 +26,12 @@ teams:
       - leszek-shielded
       - pataei
 repositories:
+  - name: compact
+    teams:
+      lf-staff: maintain
+      compact-admins: admin
+      compact-maintainers: maintain
+    visibility: public
   - name: governance
     teams:
       lf-staff: maintain
