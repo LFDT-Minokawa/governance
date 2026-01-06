@@ -10,6 +10,8 @@ teams:
   - name: compact-admins
     maintainers:
       - chrisferry
+    members:
+      - sgillespie
   - name: compact-maintainers
     maintainers:
       - kmillikin
