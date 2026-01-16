@@ -16,7 +16,11 @@ teams:
     maintainers:
       - kmillikin
     members:
-      - chrisferry
+      - bobblessinghartley
+      - dybvig
+      - JosephDenman
+      - leszek-shielded
+      - pataei
   - name: minokawa-maintainers
     maintainers:
       - kmillikin
