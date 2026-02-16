@@ -27,8 +27,8 @@ teams:
       - kmillikin
     members:
       - andreyjv
-      - shieldedmark
       - peteshielded
+      - shieldedmark
   - name: minokawa-maintainers
     maintainers:
       - kmillikin
