@@ -47,6 +47,11 @@ repositories:
       compact-maintainers: maintain
       compact-triage: triage
     visibility: public
+  - name: .github
+    teams:
+      lf-staff: maintain
+      minokawa-maintainers: maintain
+    visibility: public
   - name: governance
     teams:
       lf-staff: maintain
