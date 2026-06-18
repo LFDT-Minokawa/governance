@@ -12,8 +12,6 @@ teams:
       - chrisferry
     members:
       - lcarvalho-shielded
-      - sgillespie
-      - skylarsimoncelli
   - name: compact-maintainers
     maintainers:
       - kmillikin
