@@ -38,6 +38,12 @@ teams:
       - JosephDenman
       - leszek-shielded
       - pataei
+  - name: security-managers
+    maintainers:
+      - bobblessinghartley
+    members:
+      - dybvig
+      - kmillikin
 repositories:
   - name: compact
     teams:
@@ -45,14 +51,17 @@ repositories:
       compact-admins: admin
       compact-maintainers: maintain
       compact-triage: triage
+      security-managers: read
     visibility: public
   - name: .github
     teams:
       lf-staff: maintain
       minokawa-maintainers: maintain
+      security-managers: read
     visibility: public
   - name: governance
     teams:
       lf-staff: maintain
       minokawa-maintainers: maintain
+      security-managers: read
     visibility: public
