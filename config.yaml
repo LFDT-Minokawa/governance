@@ -18,16 +18,16 @@ teams:
     members:
       - bobblessinghartley
       - dybvig
+      - golddydev
       - JosephDenman
       - leszek-shielded
+      - mhounslow
       - pataei
+      - whankinsiv
   - name: compact-triage
     maintainers:
       - kmillikin
     members:
-      - golddydev
-      - mhounslow
-      - whankinsiv
   - name: minokawa-maintainers
     maintainers:
       - kmillikin
