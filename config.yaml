@@ -43,7 +43,12 @@ teams:
       - bobblessinghartley
     members:
       - dybvig
+      - golddydev
+      - JosephDenman
       - kmillikin
+      - mhounslow
+      - pataei
+      - whankinsiv
 repositories:
   - name: compact
     teams:
